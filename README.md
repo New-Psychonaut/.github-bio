@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍄 New Psychonaut
+# 🌀 New Psychonaut
 
 ### Consciousness Research Technologies
 
