@@ -20,9 +20,9 @@
 
 ## 👋 About
 
-**New Psychonaut** is an open-source organisation building research-grade tools at the intersection of psychedelic science, cognitive psychology, and accessible technology. Our mission is to lower the barriers to psychedelic knowledge, support evidence-based harm reduction, and contribute to the emerging field of consciousness research.
+**New Psychonaut** on GitHub is an open-source project building research-grade tools at the intersection of psychedelic science, cognitive psychology, and accessible technology. Our mission is to lower the barriers to psychedelic knowledge, support evidence-based harm reduction, and contribute to the emerging field of consciousness research.
 
-The organisation is led by a **cognitive psychologist** and postgraduate student on the **University of Exeter [MSc. Psychedelics](https://www.exeter.ac.uk/study/postgraduate/courses/psychology/psychedelics/)** programme — one of the world's first dedicated postgraduate courses in psychedelic research.
+Innovations are devised by a **cognitive psychologist** and postgraduate student on the **University of Exeter [MSc. Psychedelics](https://www.exeter.ac.uk/study/postgraduate/courses/psychology/psychedelics/)** programme — one of the world's first dedicated postgraduate courses in psychedelic research.
 
 ---
 
