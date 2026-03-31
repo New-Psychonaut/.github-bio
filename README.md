@@ -7,8 +7,11 @@
 *Psychedelic Accessibility · Harm Reduction · Open Science*
 
 [![Website](https://img.shields.io/badge/Website-newpsychonaut.com-7c3aed?style=for-the-badge&logo=firefox&logoColor=white)](https://www.newpsychonaut.com/)
+
 [![X (Twitter)](https://img.shields.io/badge/X-@newpsychonaut-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/newpsychonaut)
+
 [![Instagram](https://img.shields.io/badge/Instagram-@newpsychonaut-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/newpsychonaut)
+
 [![Patreon](https://img.shields.io/badge/Sponsor-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/cw/EntheogenWebAppDataset)
 
 </div>
